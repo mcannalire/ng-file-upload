@@ -33,6 +33,7 @@
     "file-upload",
     "javascript"
   ],
+  "main": "dist/ng-file-upload.js",
   "author": "danial.farid@gmail.com",
   "license": "MIT",
   "bugs": {
